@@ -121,7 +121,7 @@ kill -9 process-id
 - **Note:** Terminating an instance will delete all the data on the instance, so make sure to back up any data you want to keep.
 
 
-
+> ## Complete playlist for Cloud computing and AWS, and GCP services is available [here](https://www.youtube.com/watch?v=jqBCokl7t0k&list=PL9XvIvvVL50H72Q75WkYA_2zjZok30Rvp&ab_channel=Codanics)
 
 
 
