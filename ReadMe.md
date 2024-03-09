@@ -61,6 +61,20 @@ git clone repository-url
 
 
 7. **Install the required packages**
+- create a virtual environment and activate it:
+```bash
+python3 -m venv env_name
+source env/bin/activate
+```
+# you can also use miniconda for that.
+- Download mini conda from [here](https://docs.conda.io/en/latest/miniconda.html)
+- Install miniconda using the following command:
+```bash
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+```
+
+> But i prefer python virtual environment for this purpose, because it is light weight and easy to use without even installing any other software.
 
 - Install the required packages using pip:
 ```bash
